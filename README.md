@@ -113,29 +113,6 @@ cadastro-clientes-dao-java/
 
 ---
 
-## ▶ Como executar
-
-### Pré-requisitos
-- **JDK** (Java Development Kit) instalado
-- Ambiente com interface gráfica, pois a aplicação usa janelas do Swing
-
-### Pela IDE (IntelliJ IDEA, Eclipse ou VS Code)
-1. Clone o repositório:
-```bash
-   git clone https://github.com/SEU_USUARIO/cadastro-clientes-dao-java.git
-```
-2. Abra a pasta do projeto na IDE
-3. Execute a classe `App.java`
-
-### Pelo terminal
-```bash
-cd src
-javac br/com/vini/mod14/App.java br/com/vini/mod14/dao/*.java br/com/vini/mod14/domain/*.java
-java br.com.vini.mod14.App
-```
-
----
-
 ## 💡 Como usar
 
 1. Ao iniciar, escolha uma opção de **1 a 5** no menu.
@@ -173,7 +150,5 @@ java br.com.vini.mod14.App
 
 **Vinicius**
 
-Desenvolvedor Full Stack em formação, estudante de Análise e Desenvolvimento de Sistemas e aluno do curso Profissão: Especialista Backend Java da EBAC.
+Desenvolvedor Full Stack em formação, estudante de Análise e Desenvolvimento de Sistemas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
